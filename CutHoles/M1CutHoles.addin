@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Вырезает в проекте АР или КР отверстия по заглушкам</Name>
+		<Assembly>M1CutHoles.dll</Assembly>
+		<AddInId>2DDE60CE-5E0F-4D74-A03D-ED5F25B6BE5F</AddInId>
+		<FullClassName>CutHoles.Main</FullClassName>
+		<VendorId>М1 Проект</VendorId>
+		<VendorDescription>отдел ИМ М1 проект</VendorDescription>
+	</AddIn>
+</RevitAddIns>

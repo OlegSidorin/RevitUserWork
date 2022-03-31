@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>М1 Проект плагин для Ревит (Да)</Name>
+		<Assembly>M1events.dll</Assembly>
+		<AddInId>6B0797F6-6B01-46B4-A87E-9B1C1A03F67A</AddInId>
+		<FullClassName>Events.Main</FullClassName>
+		<VendorId>М1 Проект</VendorId>
+		<VendorDescription>отдел ИМ М1 Проект</VendorDescription>
+	</AddIn>
+</RevitAddIns>

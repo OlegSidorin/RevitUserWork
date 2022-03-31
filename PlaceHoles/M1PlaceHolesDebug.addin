@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Расставляет в проекте ОВ или ВК заглушки отверстий</Name>
+		<Assembly>C:\Users\o.sidorin\source\repos\RevitUserWork\PlaceHoles\bin\Debug\M1PlaceHoles.dll</Assembly>
+		<AddInId>02701416-A334-44E6-997F-25BF18BA8DEB</AddInId>
+		<FullClassName>PlaceHoles.Main</FullClassName>
+		<VendorId>М1 Проект</VendorId>
+		<VendorDescription>отдел ИМ М1 проект</VendorDescription>
+	</AddIn>
+</RevitAddIns>
